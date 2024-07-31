@@ -1,0 +1,1021 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Katalog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Katalog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\css\\btnstyle.css",
+      "PackagePath": "staticwebassets\\css\\btnstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Ateş Çukuru\\20191004_115645.jpg",
+      "PackagePath": "staticwebassets\\images\\Ateş Çukuru\\20191004_115645.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Ateş Çukuru\\20191004_121306.jpg",
+      "PackagePath": "staticwebassets\\images\\Ateş Çukuru\\20191004_121306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20180306_163927.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20180306_163927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20180811_140459.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20180811_140459.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20181009_150556.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20181009_150556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20181114_155131.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20181114_155131.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20181114_155144.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20181114_155144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20190119_222122.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20190119_222122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20190321_182040.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20190321_182040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20200226_230157.png",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20200226_230157.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20201030_114834.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20201030_114834.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20210429_131420.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20210429_131420.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20220303_121736.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20220303_121736.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20220303_121743.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20220303_121743.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20221004_175805.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20221004_175805.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20221004_175906.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20221004_175906.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20221004_180329.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20221004_180329.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20230520_121303.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20230520_121303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20231118_135349.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20231118_135349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20231118_135352.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20231118_135352.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20231205_150156.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20231205_150156.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20231205_150159.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20231205_150159.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240401_142049.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240401_142049.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240401_142050.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240401_142050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240430_164757.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240430_164757.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240607_150001.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240607_150001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240704_174746.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240704_174746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240706_161954.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240706_161954.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240708_171702.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240708_171702.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240709_125355.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240709_125355.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\20240709_125357.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\20240709_125357.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\Fotoğraf-0022.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\Fotoğraf-0022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\Fotoğraf0078.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\Fotoğraf0078.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\IMG-20210404-WA0000.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\IMG-20210404-WA0000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\Screenshot_20181107-134335.png",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\Screenshot_20181107-134335.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Barbeküler\\Screenshot_20181107-134444.png",
+      "PackagePath": "staticwebassets\\images\\Barbeküler\\Screenshot_20181107-134444.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20181002_142919.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20181002_142919.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20181002_142944.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20181002_142944.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20211120_142721 2.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20211120_142721 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20211120_142756.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20211120_142756.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230415_190940.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230415_190940.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230415_191005.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230415_191005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230826_174324.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230826_174324.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230831_165328.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230831_165328.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230831_165338.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230831_165338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230831_165354.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230831_165354.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230902_122034.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230902_122034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20230902_122056.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20230902_122056.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20240203_170922.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20240203_170922.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20240203_170934.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20240203_170934.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Duvar Taş Kaplama\\20240203_171101.jpg",
+      "PackagePath": "staticwebassets\\images\\Duvar Taş Kaplama\\20240203_171101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20220803_180919.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20220803_180919.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20220819_182310.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20220819_182310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240521_152402.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240521_152402.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240521_152421.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240521_152421.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240521_152543.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240521_152543.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240521_152630.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240521_152630.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240521_173518.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240521_173518.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240521_180034.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240521_180034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240522_141315.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240522_141315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240523_145513.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240523_145513.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240524_122228.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240524_122228.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240524_181109.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240524_181109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240524_181542.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240524_181542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240525_161939.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240525_161939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240525_161958.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240525_161958.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240527_162149.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240527_162149.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Fırınlar\\20240527_162204.jpg",
+      "PackagePath": "staticwebassets\\images\\Fırınlar\\20240527_162204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20200429_141240.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20200429_141240.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20200429_141317.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20200429_141317.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20200912_162202.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20200912_162202.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20200912_162216.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20200912_162216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20200912_162221.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20200912_162221.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20201030_114901.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20201030_114901.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20201030_114916.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20201030_114916.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20210329_183044.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20210329_183044.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20220430_171420.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20220430_171420.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20220430_171459.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20220430_171459.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\20230225_114046.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\20230225_114046.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Duvar Kaplama\\Screenshot_20200429-140925_Chrome.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Duvar Kaplama\\Screenshot_20200429-140925_Chrome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180102_172722.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180102_172722.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180110_084703.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180110_084703.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180110_084735.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180110_084735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180110_084749.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180110_084749.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180208_153050.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180208_153050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180208_153106.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180208_153106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180208_153134.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180208_153134.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180402_133212.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180402_133212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180402_133338.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180402_133338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180402_133340.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180402_133340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20180402_133402.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20180402_133402.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Kayrak Yer Döşeme\\20200401_112458.jpg",
+      "PackagePath": "staticwebassets\\images\\Kayrak Yer Döşeme\\20200401_112458.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20181019_145114.png",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20181019_145114.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20181217_164540.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20181217_164540.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20181217_164636.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20181217_164636.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20181217_164741.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20181217_164741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20190731_094116.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20190731_094116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20190731_094129.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20190731_094129.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20190731_094210.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20190731_094210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20200702_153539.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20200702_153539.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20200714_120523.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20200714_120523.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20200714_120618.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20200714_120618.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Basamak\\20230724_130401.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Basamak\\20230724_130401.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Döşeme\\20190731_093849.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Döşeme\\20190731_093849.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Döşeme\\20200714_172128.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Döşeme\\20200714_172128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Döşeme\\20200714_172243.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Döşeme\\20200714_172243.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Döşeme\\20200714_172314.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Döşeme\\20200714_172314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Döşeme\\20230724_130332.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Döşeme\\20230724_130332.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Mermer Döşeme\\20230724_130339.jpg",
+      "PackagePath": "staticwebassets\\images\\Mermer Döşeme\\20230724_130339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Pencere Kaplama\\Fotoğraf-000d.jpg",
+      "PackagePath": "staticwebassets\\images\\Pencere Kaplama\\Fotoğraf-000d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Pencere Kaplama\\Fotoğraf0088.jpg",
+      "PackagePath": "staticwebassets\\images\\Pencere Kaplama\\Fotoğraf0088.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Pencere Kaplama\\Fotoğraf0089.jpg",
+      "PackagePath": "staticwebassets\\images\\Pencere Kaplama\\Fotoğraf0089.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Pencere Kaplama\\Fotoğraf0091.jpg",
+      "PackagePath": "staticwebassets\\images\\Pencere Kaplama\\Fotoğraf0091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Pencere Kaplama\\Fotoğraf0092.jpg",
+      "PackagePath": "staticwebassets\\images\\Pencere Kaplama\\Fotoğraf0092.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Yer Taş Döşeme\\20180831_134826.jpg",
+      "PackagePath": "staticwebassets\\images\\Yer Taş Döşeme\\20180831_134826.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Yer Taş Döşeme\\20180831_134900.jpg",
+      "PackagePath": "staticwebassets\\images\\Yer Taş Döşeme\\20180831_134900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Yer Taş Döşeme\\20180831_135017.jpg",
+      "PackagePath": "staticwebassets\\images\\Yer Taş Döşeme\\20180831_135017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Yer Taş Döşeme\\20180831_135126.jpg",
+      "PackagePath": "staticwebassets\\images\\Yer Taş Döşeme\\20180831_135126.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Yer Taş Döşeme\\20181002_142948.jpg",
+      "PackagePath": "staticwebassets\\images\\Yer Taş Döşeme\\20181002_142948.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Çeşme\\20180309_150209.jpg",
+      "PackagePath": "staticwebassets\\images\\Çeşme\\20180309_150209.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Çeşme\\20180309_150231.jpg",
+      "PackagePath": "staticwebassets\\images\\Çeşme\\20180309_150231.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20190129_102307.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20190129_102307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20190129_102340.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20190129_102340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20190129_102414.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20190129_102414.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20190129_102937.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20190129_102937.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20190423_135403.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20190423_135403.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20190423_135411.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20190423_135411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20201107_161152.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20201107_161152.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20210125_090949.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20210125_090949.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20210310_154004.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20210310_154004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20210310_154012.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20210310_154012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20230519_112227.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20230519_112227.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20230519_175744.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20230519_175744.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20230519_175810.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20230519_175810.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20230520_121322.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20230520_121322.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20230520_121340.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20230520_121340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231114_145913.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231114_145913.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231202_171139.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231202_171139.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231202_171151.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231202_171151.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231202_171218.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231202_171218.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231219_154052.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231219_154052.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231219_154054.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231219_154054.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231223_173322.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231223_173322.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20231223_173338.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20231223_173338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\20240112_142256.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\20240112_142256.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf-0010.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf-0010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0015.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0035.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0083.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0083.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0085.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0096.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0096.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0097.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0097.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0099.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0099.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0104.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Fotoğraf0105.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Fotoğraf0105.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20190312-WA0001.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20190312-WA0001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20190312-WA0002.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20190312-WA0002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20190312-WA0003.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20190312-WA0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20190312-WA0004.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20190312-WA0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0001.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0002 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0002 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0002.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0003 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0003 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0003.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0004 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0004 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0004.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0005 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0005 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0005.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0006 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0006 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0006.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0007 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0007 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0007.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0008 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0008 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0008.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0009 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0009 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0009.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0010 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0010 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0010.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0011 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0011 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0011.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0012 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0012 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0012.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0013 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0013 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\IMG-20211120-WA0013.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\IMG-20211120-WA0013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Screenshot_20200106-135614_Photo Editor.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Screenshot_20200106-135614_Photo Editor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Screenshot_20200106-135734_Gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Screenshot_20200106-135734_Gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\images\\Şömineler\\Screenshot_20200106-163731_Gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\Şömineler\\Screenshot_20200106-163731_Gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Repostory\\Katalog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Katalog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Katalog.props",
+      "PackagePath": "build\\Katalog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Katalog.props",
+      "PackagePath": "buildMultiTargeting\\Katalog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Katalog.props",
+      "PackagePath": "buildTransitive\\Katalog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

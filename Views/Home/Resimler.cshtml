@@ -1,0 +1,43 @@
+﻿@model List<string>
+@{
+    Layout = "";
+    var folderName = ViewData["FolderName"] as string;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@folderName</title>
+    <link rel="stylesheet" href="~/css/style.css">
+
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <button class="back-button" onclick="goToHomePage()">&#10094;</button>
+            <h1>@folderName</h1>
+        </div>
+    </header>
+    <div class="gallery-container">
+        @foreach (var imagePath in Model)
+        {
+            <div class="gallery-item" onclick="openModal('@imagePath')">
+                <img src="@imagePath" alt="Resim">
+            </div>
+        }
+    </div>
+
+    <!-- Modal -->
+    <div id="myModal" class="modal" style=" display: none">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <img class="modal-content" id="modalImage">
+            <div id="caption"></div>
+        </div>
+    </div>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>
+

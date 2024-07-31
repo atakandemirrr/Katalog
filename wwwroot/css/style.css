@@ -1,0 +1,122 @@
+/* Genel Stil Ayarlarý */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;   
+    text-align: center;
+    position: relative;   
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 0; /* Üst ve alt paddingi küçült */
+}
+
+    .header-content h1 {
+        font-size: 1.5rem; /* Baþlýk boyutunu küçült */
+        margin: 0; /* Baþlýk etrafýndaki boþluðu kaldýr */
+    }
+
+
+
+
+.back-button {
+    position: absolute;
+    left: 10px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Galeri Stili */
+.gallery-container {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery-item {
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+    .gallery-item img {
+        max-width: 200px;
+        max-height: 150px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .gallery-item:hover {
+        transform: scale(1.05);
+    }
+
+/* Modal Stili */
+.modal {
+    display: none; /* Modal baþta gizli */
+    position: fixed; /* Ekranýn tamamýný kaplar */
+    z-index: 1; /* Üstte görünür */
+    left: 0;
+    top: 0;
+    width: 100%; /* Ekranýn geniþliði */
+    height: 100%; /* Ekranýn yüksekliði */
+    overflow: auto; /* Ýçerik taþarsa kaydýrma saðlar */
+    background-color: rgba(0, 0, 0, 0.8); /* Arka plan rengi þeffaf */
+    display: flex; /* Flexbox kullanarak ortalamak için */
+    justify-content: center; /* Yatayda ortalama */
+    align-items: center; /* Dikeyde ortalama */
+}
+
+.modal-content {
+    background: #fff; /* Arka plan rengi */
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%; /* Modal içerik geniþliði */
+    max-width: 700px; /* Maksimum geniþlik */
+    max-height: 80vh; /* Modal içeriðinin maksimum yüksekliði */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Gölge efekti */
+    position: relative; /* Ýçerik üzerine mutlak konumlandýrma */
+    box-sizing: border-box; /* Padding ve border ile birlikte geniþlik ve yükseklik hesaplamasý */
+    overflow: auto; /* Ýçerik taþarsa kaydýrma saðlar */
+}
+
+    .modal-content img {
+        max-width: 100%;
+        height: auto;
+        display: block; /* Resimlerin çevresindeki boþluðu kaldýrýr */
+        margin: 0 auto; /* Resmi ortalar */
+    }
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 15px; /* Sola yakýn olmasýný saðlar */
+    color: #000;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    .close:hover,
+    .close:focus {
+        color: #555;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+#caption {
+    margin: 20px 0; /* Üst ve alt margin ekleyerek içerik ile resim arasýndaki boþluðu artýr */
+    text-align: center;
+    color: #555;
+}

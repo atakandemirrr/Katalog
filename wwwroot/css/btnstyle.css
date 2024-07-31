@@ -1,0 +1,69 @@
+body {
+   
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 0; /* Üst ve alt paddingi küçült */
+}
+
+    .header-content h1 {
+        font-size: 1.5rem; /* Baþlýk boyutunu küçült */
+        margin: 0; /* Baþlýk etrafýndaki boþluðu kaldýr */
+    }
+
+.container {
+    margin: 10px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.responsive-button {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 1px;
+    width: 80%;
+    max-width: 300px;
+    transition: background-color 0.3s ease;
+}
+
+    .responsive-button:hover {
+        background-color: white;
+    }
+
+@media (max-width: 768px) {
+    .responsive-button {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    .responsive-button {
+        width: 100%;
+        font-size: 14px;
+    }
+}
